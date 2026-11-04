@@ -1,5 +1,5 @@
 # Adding and Updating Stock
-This guide will explain how to add pproducts to StockMate and keep their stock quantities up to date.
+This guide will explain how to add products to StockMate and keep their stock quantities up to date.
 
 ## Before You Begin
 Sign in to your StockMate account through a web browser and open your inventory dashboard. Have the product details and current stock quantity ready.  
@@ -8,9 +8,9 @@ Sign in to your StockMate account through a web browser and open your inventory 
 1. From the inventory dashboard, choose the option to add a product.
 2. Enter the product information, such as the product name and description. 
 3. Enter the quantity of stock.
-4. Set a minimum stock level if you would like StockMate to altert you when the product is running low.
+4. Set a minimum stock level if you would like StockMate to alert you when the product is running low.
 5. Save the product.
-6. Check your inventory dashboard to confirm the product apppears with the correct details and quantity.
+6. Check your inventory dashboard to confirm the product appears with the correct details and quantity.
 
 ### Updating Product Details
 1. Find the product in your inventory dashboard. Use the search or filtering if needed.
@@ -37,6 +37,6 @@ Update the stock quantity when new stock arrives or items are sold.
 
 ### Tips for Accurate Stock 
 - Update the quantities as soon as stock arrives or leaves the buisness.
-- Check the quantity of the pproduct before saving an update.
+- Check the quantity of the product before saving an update.
 - Review products with low stock notifications and adjust the quantites when needed.
 - Make sure each product is easy to identify by using clear, easy to read names and descriptions

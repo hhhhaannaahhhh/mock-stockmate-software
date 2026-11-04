@@ -20,9 +20,9 @@ StockMate is a fictional product used for technical documentation.
 - Set minimum stock levels and receive notifications when products are low.
 
 ## Documentation  
-- [Product Overview](docs/product-overview.md)
-- [Adding and Updating Stock](docs/add-and-update.md)
-- [Troubleshooting: Products Won't Update](docs/not-updating.md)
+- [Product Overview](docs/overview/product-overview.md)
+- [Adding and Updating Stock](docs/guides/add-and-update.md)
+- [Troubleshooting: Products Won't Update](docs/troubleshooting/not-updating.md)
 
 ## Requirements  
 - A registered StockMate account.
